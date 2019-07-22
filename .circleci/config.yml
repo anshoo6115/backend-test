@@ -35,4 +35,3 @@ workflows:
               only:
                 - master
                 - develop
-© 2019 GitHub, Inc.
