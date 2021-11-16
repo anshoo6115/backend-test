@@ -24,7 +24,7 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "aws-sdk": "^2.473.0",
+    "aws-sdk": "^2.814.0",
     "bcrypt": "^3.0.6",
     "body-parser": "^1.19.0",
     "busboy": "^0.3.1",
